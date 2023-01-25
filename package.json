@@ -25,7 +25,7 @@
     "./dist"
   ],
   "dependencies": {
-    "@minimouli/framework": "^2.0.3",
+    "@minimouli/framework": "^2.0.4",
     "core-js": "^3.27.1"
   },
   "devDependencies": {
