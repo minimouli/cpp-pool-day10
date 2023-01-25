@@ -22,7 +22,9 @@
   },
   "license": "MIT",
   "files": [
-    "./dist"
+    "./dist",
+    "./res",
+    "moulinette.json"
   ],
   "dependencies": {
     "@minimouli/framework": "^2.0.4",
